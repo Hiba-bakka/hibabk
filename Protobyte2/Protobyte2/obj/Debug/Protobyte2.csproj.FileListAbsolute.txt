@@ -1,0 +1,45 @@
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe.config
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\bin\Debug\Protobyte2.pdb
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.AssemblyReference.cache
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Form1.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Properties.Resources.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.GenerateResource.cache
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.CoreCompileInputs.cache
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.exe
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.pdb
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.RegisterForm.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.MainForm.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.AddEmployee.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Dashboard.resources
+C:\Users\desktop center\source\repos\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Salary.resources
+D:\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe.config
+D:\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe
+D:\Protobyte2\Protobyte2\bin\Debug\Protobyte2.pdb
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.AssemblyReference.cache
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.AddEmployee.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Dashboard.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Form1.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.MainForm.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Properties.Resources.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.RegisterForm.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Salary.resources
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.GenerateResource.cache
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.CoreCompileInputs.cache
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.exe
+D:\Protobyte2\Protobyte2\obj\Debug\Protobyte2.pdb
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.AddEmployee.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Dashboard.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Form1.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.MainForm.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Properties.Resources.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.RegisterForm.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Salary.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe.config
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\bin\Debug\Protobyte2.exe
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.exe
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.pdb
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\bin\Debug\Protobyte2.pdb

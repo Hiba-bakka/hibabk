@@ -1,0 +1,10 @@
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte.csproj.AssemblyReference.cache
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.AddEmployee.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Dashboard.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Form1.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.MainForm.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Properties.Resources.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.RegisterForm.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte2.Salary.resources
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte.csproj.GenerateResource.cache
+C:\Users\Sony\Desktop\Protobyte2\Protobyte2\obj\Debug\Protobyte.csproj.CoreCompileInputs.cache
